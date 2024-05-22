@@ -1,0 +1,29 @@
+{
+  "name": "KindiCoin",
+  "symbol": "KINDI",
+  "description": "KindiCoin is a philanthropic cryptocurrency designed to support charitable causes worldwide.",
+  "image": "https://yourusername.github.io/kindicoin-metadata/kindicoin.png",
+  "external_url": "https://kindicoin.org",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://yourusername.github.io/kindicoin-metadata/kindicoin.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Charity",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Community Driven",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Staking Available",
+      "value": "Future"
+    }
+  ]
+}
