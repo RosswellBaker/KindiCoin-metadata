@@ -2,7 +2,7 @@
   "name": "KindiCoin",
   "symbol": "KINDI",
   "description": "KindiCoin is a cryptocurrency aimed at fostering charitable giving and community engagement.",
-  "image": "https://example.com/kindicoin.png",
+  "image": "https://your-storage-service-url/kindicoin.png", // Replace this with the actual URL of your logo image
   "attributes": [
     {
       "trait_type": "Staking Available",
