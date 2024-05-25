@@ -1,18 +1,33 @@
 {
   "name": "KindiCoin",
   "symbol": "KINDI",
-  "description": "KindiCoin is a cryptocurrency aimed at fostering charitable giving and community engagement.",
+  "description": "KindiCoin is a cryptocurrency designed to support charitable causes and community projects. It incentivizes social good through a robust staking and governance mechanism, enabling token holders to vote on charitable projects and earn rewards.",
   "image": "https://github.com/RosswellBaker/KindiCoin-metadata/blob/main/kindi%20himself.png?raw=true",
+  "decimals": 6,
+  "supply": 1500000000,
+  "external_url": "https://yourwebsite.com",
   "attributes": [
     {
       "trait_type": "Staking Available",
       "value": "Future"
+    },
+    {
+      "trait_type": "Governance Voting",
+      "value": "Enabled"
+    },
+    {
+      "trait_type": "Transaction Fees",
+      "value": "2.5%"
+    },
+    {
+      "trait_type": "Burn Mechanism",
+      "value": "0.5% of each transaction"
     }
   ],
   "properties": {
     "creators": [
       {
-        "address": "C8Y8QCe8xfodJsY6LNBfFv1MdnVSFXSsfbjG9vqmbr8u",
+        "address": "2Ve84JyXMdWmR7qtJCxqj15eBgDHSCkgzb7TLkq1PhpR",
         "share": 100
       }
     ]
