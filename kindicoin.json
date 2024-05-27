@@ -2,8 +2,8 @@
     "name": "KindiCoin",
     "symbol": "KINDI",
     "description": "KindiCoin is a cryptocurrency designed to revolutionize charitable giving and social impact through blockchain technology.",
-    "image": "https://github.com/RosswellBaker/KindiCoin-metadata/blob/main/Final%20KindiCoin%20Logo.png?raw=true",
-    "external_url": "https://www.kindicoin.com",
+    "image": "https://raw.githubusercontent.com/RosswellBaker/KindiCoin-metadata/main/Final%20KindiCoin%20Logo.png",
+    "external_url": "https://github.com/RosswellBaker/KindiCoin-metadata",
     "decimals": 6,
     "supply": 1500000000,
     "creators": [
@@ -33,14 +33,18 @@
     },
     "social_media": {
         "twitter": "https://twitter.com/KindiCoin",
-        "telegram": "https://t.me/KindiCoin",
+        "telegram": "https://t.me/KindiCoin"
     },
     "roadmap": {
         "phase1": "Launch and initial distribution",
         "phase2": "Staking and governance implementation",
         "phase3": "Partnerships and integrations"
     },
-    "whitepaper": "https://www.kindicoin.com",
+    "whitepaper": "https://www.kindicoin.org/whitepaper.pdf",
+    "audit_reports": [
+        {
+            "name": "AuditReport1",
+            "url": "https://www.kindicoin.org/audit1.pdf"
         }
     ],
     "tokenomics": {
