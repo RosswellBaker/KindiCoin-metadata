@@ -1,35 +1,77 @@
 {
-  "name": "KindiCoin",
-  "symbol": "KINDI",
-  "description": "KindiCoin is a cryptocurrency designed to support charitable causes and community projects. It incentivizes social good through a robust staking and governance mechanism, enabling token holders to vote on charitable projects and earn rewards.",
-  "image": "https://github.com/RosswellBaker/KindiCoin-metadata/blob/main/kindi%20himself.png?raw=true",
-  "decimals": 6,
-  "supply": 1500000000,
-  "external_url": "https://yourwebsite.com",
-  "attributes": [
-    {
-      "trait_type": "Staking Available",
-      "value": "Future"
-    },
-    {
-      "trait_type": "Governance Voting",
-      "value": "Enabled"
-    },
-    {
-      "trait_type": "Transaction Fees",
-      "value": "2.5%"
-    },
-    {
-      "trait_type": "Burn Mechanism",
-      "value": "0.5% of each transaction"
-    }
-  ],
-  "properties": {
+    "name": "KindiCoin",
+    "symbol": "KINDI",
+    "description": "KindiCoin is a cryptocurrency designed to revolutionize charitable giving and social impact through blockchain technology.",
+    "image": "https://github.com/RosswellBaker/KindiCoin-metadata/blob/main/Final%20KindiCoin%20Logo.png?raw=true",
+    "external_url": "https://www.kindicoin.com",
+    "decimals": 6,
+    "supply": 1500000000,
     "creators": [
-      {
-        "address": "2Ve84JyXMdWmR7qtJCxqj15eBgDHSCkgzb7TLkq1PhpR",
-        "share": 100
-      }
-    ]
-  }
+        {
+            "address": "2Ve84JyXMdWmR7qtJCxqj15eBgDHSCkgzb7TLkq1PhpR",
+            "share": 100
+        }
+    ],
+    "attributes": {
+        "staking_available": "Yes",
+        "total_transaction_fee": "3%",
+        "charity_fee": "1%",
+        "development_fee": "1%",
+        "creator_fee": "0.5%",
+        "burn_fee": "0.5%"
+    },
+    "background": {
+        "mission": "To revolutionize charitable giving through blockchain technology.",
+        "vision": "Creating a transparent and efficient ecosystem for charity and social impact.",
+        "use_cases": "Donations, voting on charitable projects, staking rewards."
+    },
+    "legal_disclaimer": "This token is not a security. The team is not responsible for any financial losses.",
+    "contact": {
+        "email": "support@kindicoin.com",
+        "telegram": "https://t.me/KindiCoin",
+        "twitter": "https://twitter.com/KindiCoin"
+    },
+    "social_media": {
+        "twitter": "https://twitter.com/KindiCoin",
+        "telegram": "https://t.me/KindiCoin",
+    },
+    "roadmap": {
+        "phase1": "Launch and initial distribution",
+        "phase2": "Staking and governance implementation",
+        "phase3": "Partnerships and integrations"
+    },
+    "whitepaper": "https://www.kindicoin.com",
+        }
+    ],
+    "tokenomics": {
+        "initial_supply": 1500000000,
+        "distribution": {
+            "public_sale": "30%",
+            "liquidity_pool": "20%",
+            "foundation_reserve": "10%",
+            "team_and_advisors": "5%",
+            "strategic_partnerships": "10%",
+            "community_and_marketing": "10%",
+            "charitable_pledge": "5%",
+            "staking_rewards": "10%"
+        }
+    },
+    "security_measures": {
+        "reentrancy_guard": true,
+        "overflow_underflow_checks": true,
+        "role_based_access_controls": true
+    },
+    "compliance": {
+        "regulations": "Complies with applicable financial and security regulations.",
+        "audits": "Regular security audits conducted by third-party firms."
+    },
+    "governance": {
+        "voting_system": "Token holders can vote on project proposals and charitable donations.",
+        "proposal_submission": "Open to all token holders.",
+        "voting_power": "Based on staked tokens."
+    },
+    "distribution_schedule": {
+        "public_sale_date": "2024-06-01",
+        "unlock_schedule": "Team and advisor tokens vested over 24 months."
+    }
 }
