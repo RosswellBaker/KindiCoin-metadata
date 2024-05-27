@@ -14,7 +14,7 @@
     ],
     "attributes": {
         "staking_available": "Yes",
-        "total_transaction_fee": "3%",
+        "total_transaction_fee": "2.5%",
         "charity_fee": "1%",
         "development_fee": "1%",
         "creator_fee": "0.5%",
