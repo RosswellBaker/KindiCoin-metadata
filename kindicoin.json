@@ -14,10 +14,10 @@
     ],
     "attributes": {
         "staking_available": "Yes",
-        "total_transaction_fee": "2.5%",
+        "total_transaction_fee": "3%",
         "charity_fee": "1%",
-        "development_fee": "1%",
-        "creator_fee": "0.5%",
+        "development_fee": "0.5%",
+        "creator_fee": "1%",
         "burn_fee": "0.5%"
     },
     "background": {
@@ -29,10 +29,10 @@
     "contact": {
         "email": "support@kindicoin.com",
         "telegram": "https://t.me/KindiCoin",
-        "twitter": "https://twitter.com/KindiCoin"
+        "twitter": "https://x.com/KindiCoin"
     },
     "social_media": {
-        "twitter": "https://twitter.com/KindiCoin",
+        "twitter": "https://x.com/KindiCoin",
         "telegram": "https://t.me/KindiCoin"
     },
     "roadmap": {
@@ -40,7 +40,7 @@
         "phase2": "Staking and governance implementation",
         "phase3": "Partnerships and integrations"
     },
-    "whitepaper": "https://www.kindicoin.org/whitepaper.pdf",
+    "whitepaper": "https://www.kindicoin.com",
     "audit_reports": [
         {
             "name": "AuditReport1",
